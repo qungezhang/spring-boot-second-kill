@@ -28,6 +28,7 @@ public class KafkaOrder {
 
     public void execute(){
         for(KafkaOrderTask orderTask : kafkaOrderTaskList){
+            //开启多个消费者线程进行消费创建订单
             threadPool.submit(orderTask);
         }
     }
