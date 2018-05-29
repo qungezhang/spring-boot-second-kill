@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0355539d-1d5f-4bea-82a8-247af70bb30b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/api/target/" />
+    <ignored path="$PROJECT_DIR$/web/target/" />
+    <ignored path="$PROJECT_DIR$/order-service/target/" />
+    <ignored path="$PROJECT_DIR$/order-kf-consumer/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="KafkaOrder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/kafka/KafkaOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KafkaOrderTask.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/kafka/KafkaOrderTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="45" column="23" lean-forward="true" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/service/impl/OrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kafka.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order-service/src/main/resources/kafka.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestConsumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order-service/src/test/java/com/ms/service/service/TestConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order-service/src/main/java/com/ms/service/service/OrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="83" selection-start-line="83" selection-end-line="83" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mysql</find>
+      <find>mysq</find>
+      <find>githuap</find>
+      <find>order</find>
+      <find>库存</find>
+      <find>库存不足</find>
+      <find>insertByKafka</find>
+      <find>120.79.69.44:9092</find>
+      <find>gson</find>
+      <find>异步</find>
+      <find>偏移量</find>
+      <find>偏移</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/ms/OrderServiceApplication.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/resources/mybatis/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/ms/util/RedisLock.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/ms/dto/GoodsDTO.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/ms/dto/OrderDTO.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/ms/Service/GoodsService.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/ms/dao/GoodsMapper.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/ms/service/GoodsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/order-service/src/test/java/com/ms/service/GoodsServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/resources/dubbo/dubbbo-provider.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/ms/web/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/ms/web/WebApplication.java" />
+        <option value="$PROJECT_DIR$/web/pom.xml" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/ms/service/util/Const.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/ms/api/Service/GoodsService.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/ms/service/pojo/Order.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/resources/mybatis/mappers/OrderMapper.xml" />
+        <option value="$PROJECT_DIR$/order-service/src/test/java/com/ms/service/service/GoodsServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/ms/service/service/GoodsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/dubbo/dubbo-consumer.xml" />
+        <option value="$PROJECT_DIR$/order-service/src/main/resources/dubbo/dubbo-provider.xml" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/ms/service/util/RedisLock.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/resources/datasource.properties" />
+        <option value="$PROJECT_DIR$/order-kf-consumer/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/config/KafkaConfig.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/ms/api/Service/OrderService.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/ms/api/config/KafkaConfig.java" />
+        <option value="$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/kafka/SpringBeanFactory.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/ms/web/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/order-kf-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/order-service/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/ms/service/dao/GoodsMapper.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/resources/mybatis/mappers/GoodsMapper.xml" />
+        <option value="$PROJECT_DIR$/order-kf-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/ms/service/OrderServiceApplication.java" />
+        <option value="$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/config/KafkaConfig.java" />
+        <option value="$PROJECT_DIR$/order-kf-consumer/src/main/resources/kafka.properties" />
+        <option value="$PROJECT_DIR$/order-service/src/test/java/com/ms/service/service/OrderServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/resources/kafka.properties" />
+        <option value="$PROJECT_DIR$/order-service/src/test/java/com/ms/service/service/TestProducer.java" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/ms/service/config/KafkaConfig.java" />
+        <option value="$PROJECT_DIR$/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/order-service/src/main/java/com/ms/service/service/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/OrderKfConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/order-service/src/test/java/com/ms/service/service/TestConsumer.java" />
+        <option value="$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/kafka/KafkaOrder.java" />
+        <option value="$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/kafka/KafkaOrderTask.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\developkits\apache-maven-3.3.9\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="order-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="order-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="order-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-kf-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-kf-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-kf-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-kf-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-kf-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-kf-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-kf-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-kf-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ms.service.service" />
+      <recent name="com.ms.service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ms.consumer" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProject\ms\order-kf-consumer\src\main\resources\mybatis" />
+      <recent name="E:\IdeaProject\ms\order-kf-consumer\src\main\resources" />
+      <recent name="E:\IdeaProject\ms\order-service\src\main\java\com\ms\util" />
+      <recent name="E:\IdeaProject\ms\order-service\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.21849649" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.WebApplication">
+    <configuration name="GoodsServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ms.service.service.GoodsServiceImpl" />
+      <module name="order-service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ms.service.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ms.service.service.TestConsumer" />
+      <module name="order-service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ms.service.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ms.service.service.TestProducer" />
+      <module name="order-service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ms.service.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="GoodsServiceImplTest.list (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="order-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ms.service.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ms.service.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ms.service.service.GoodsServiceImplTest" />
+      <option name="METHOD_NAME" value="list" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="GoodsServiceImplTest.testRedis (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="order-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ms.service.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ms.service.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ms.service.service.GoodsServiceImplTest" />
+      <option name="METHOD_NAME" value="testRedis" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="OrderKfConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-kf-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ms.consumer.OrderKfConsumerApplication" />
+    </configuration>
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ms.service.OrderServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ms.web.WebApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.WebApplication" />
+      <item itemvalue="Spring Boot.OrderServiceApplication" />
+      <item itemvalue="Spring Boot.OrderKfConsumerApplication" />
+      <item itemvalue="JUnit.GoodsServiceImplTest.testRedis (1)" />
+      <item itemvalue="JUnit.GoodsServiceImplTest.list (1)" />
+      <item itemvalue="Application.GoodsServiceImpl" />
+      <item itemvalue="Application.TestProducer" />
+      <item itemvalue="Application.TestConsumer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestConsumer" />
+        <item itemvalue="Application.TestProducer" />
+        <item itemvalue="JUnit.GoodsServiceImplTest.testRedis (1)" />
+        <item itemvalue="Application.GoodsServiceImpl" />
+        <item itemvalue="JUnit.GoodsServiceImplTest.list (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0355539d-1d5f-4bea-82a8-247af70bb30b" name="Default" comment="" />
+      <created>1527143366244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527143366244</updated>
+      <workItem from="1527143369551" duration="32736000" />
+      <workItem from="1527472002733" duration="3413000" />
+      <workItem from="1527476923847" duration="442000" />
+      <workItem from="1527477443705" duration="757000" />
+      <workItem from="1527485492961" duration="38903000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GoodsServiceImplTest_list - 2018.05.24 at 17h 08m 33s.xml">
+      <configuration name="GoodsServiceImplTest.list" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImplTest_testRedis - 2018.05.24 at 17h 14m 12s.xml">
+      <configuration name="GoodsServiceImplTest.testRedis" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImplTest_testRedis_(1) - 2018.05.24 at 17h 18m 37s.xml">
+      <configuration name="GoodsServiceImplTest.testRedis (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImplTest_testRedis_(1) - 2018.05.24 at 17h 19m 56s.xml">
+      <configuration name="GoodsServiceImplTest.testRedis (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImplTest_list_(1) - 2018.05.24 at 17h 20m 10s.xml">
+      <configuration name="GoodsServiceImplTest.list (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImplTest_list_(1) - 2018.05.24 at 17h 21m 00s.xml">
+      <configuration name="GoodsServiceImplTest.list (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImplTest_testRedis_(1) - 2018.05.25 at 12h 58m 46s.xml">
+      <configuration name="GoodsServiceImplTest.testRedis (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImplTest_testRedis_(1) - 2018.05.25 at 12h 59m 57s.xml">
+      <configuration name="GoodsServiceImplTest.testRedis (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImplTest_testRedis_(1) - 2018.05.25 at 13h 02m 37s.xml">
+      <configuration name="GoodsServiceImplTest.testRedis (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GoodsServiceImplTest_testRedis_(1) - 2018.05.25 at 13h 03m 54s.xml">
+      <configuration name="GoodsServiceImplTest.testRedis (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="76251000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50104165" side_tool="true" weight="0.37578288" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.15298508" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49895832" weight="0.37540108" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32941177" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.36256686" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.33582887" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32976446" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19936034" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32985386" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" visible="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/order-service/src/test/java/com/ms/service/service/GoodsServiceImplTest.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/order-service/src/main/java/com/ms/service/dao/OrderMapper.java</url>
+          <line>7</line>
+          <properties class="com.ms.service.dao.OrderMapper" method="insert" />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="104" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/order-kf-consumer/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/java/config/KafkaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/ms/api/Service/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/ms/api/config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/ms/api/config/KafkaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/until.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-kf-consumer/src/main/resources/datasource.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/com/ms/api/Service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/resources/dubbo/dubbo-provider.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/resources/datasource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Repositories/Maven/com/101tec/zkclient/0.10/zkclient-0.10.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/java/com/ms/service/pojo/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-kf-consumer/src/main/resources/mybatis/mappers/GoodsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/java/com/ms/service/dao/GoodsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/resources/mybatis/mappers/GoodsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="97" column="14" selection-start-line="97" selection-start-column="14" selection-end-line="97" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Repositories/Maven/org/springframework/boot/spring-boot/2.0.2.RELEASE/spring-boot-2.0.2.RELEASE.jar!/org/springframework/boot/web/servlet/context/ServletWebServerApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/ms/web/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/ms/web/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/java/com/ms/service/OrderServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Repositories/Maven/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/rpc/proxy/AbstractProxyInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/test/java/com/ms/service/service/OrderServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-kf-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-kf-consumer/src/main/resources/kafka.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.ms:service:0.0.1-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.ms:service:0.0.1-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.ms:service:0.0.1-SNAPSHOT</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.0.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot:jar:2.0.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.2.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.2.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.2.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.2.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.2.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.0.2.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.0.2.RELEASE/org.springframework:spring-core:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.0.2.RELEASE/org.springframework:spring-core:jar:5.0.6.RELEASE/org.springframework:spring-jcl:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.0.2.RELEASE/org.yaml:snakeyaml:jar:1.19</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.2.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.2.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.2.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.5</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.2.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.2.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.31</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.2.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.9.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.9.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.9.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.9.Final/com.fasterxml:classmate:jar:1.3.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.springframework:spring-web:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.springframework:spring-web:jar:5.0.6.RELEASE/org.springframework:spring-beans:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.springframework:spring-webmvc:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.springframework:spring-webmvc:jar:5.0.6.RELEASE/org.springframework:spring-aop:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.0.2.RELEASE/org.springframework:spring-webmvc:jar:5.0.6.RELEASE/org.springframework:spring-expression:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-test:jar:2.0.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.0.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/junit:junit:jar:4.12</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/org.assertj:assertj-core:jar:3.9.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/org.mockito:mockito-core:jar:2.15.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy:jar:1.7.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy-agent:jar:1.7.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/org.mockito:mockito-core:jar:2.15.0/org.objenesis:objenesis:jar:2.6</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/org.springframework:spring-test:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.0.2.RELEASE/org.xmlunit:xmlunit-core:jar:2.5.1</node>
+            <node x="" y="">com.ms:api:jar:0.0.1-SNAPSHOT</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:5.1.6</node>
+            <node x="" y="">com.google.guava:guava:jar:20.0</node>
+            <node x="" y="">com.google.code.gson:gson:jar:2.8.5</node>
+            <node x="" y="">com.alibaba:druid:jar:1.1.9</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.2.RELEASE</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.2.RELEASE/com.zaxxer:HikariCP:jar:2.7.9</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.2.RELEASE/org.springframework:spring-jdbc:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.2</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis:mybatis:jar:3.4.6</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis:mybatis-spring:jar:1.3.2</node>
+            <node x="" y="">com.github.pagehelper:pagehelper:jar:5.0.4</node>
+            <node x="" y="">com.github.pagehelper:pagehelper:jar:5.0.4/com.github.jsqlparser:jsqlparser:jar:1.0</node>
+            <node x="" y="">com.github.miemiedev:mybatis-paginator:jar:1.2.17</node>
+            <node x="" y="">com.github.miemiedev:mybatis-paginator:jar:1.2.17/org.mybatis:mybatis:jar:3.1.0</node>
+            <node x="" y="">com.github.miemiedev:mybatis-paginator:jar:1.2.17/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">com.github.jsqlparser:jsqlparser:jar:0.9.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.2.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.2.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.7.RELEASE/org.springframework.data:spring-data-keyvalue:jar:2.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.2.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.7.RELEASE/org.springframework.data:spring-data-keyvalue:jar:2.0.7.RELEASE/org.springframework.data:spring-data-commons:jar:2.0.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.2.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.7.RELEASE/org.springframework:spring-oxm:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.2.RELEASE/org.springframework.data:spring-data-redis:jar:2.0.7.RELEASE/org.springframework:spring-context-support:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.2.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.2.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.projectreactor:reactor-core:jar:3.1.7.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.2.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.projectreactor:reactor-core:jar:3.1.7.RELEASE/org.reactivestreams:reactive-streams:jar:1.0.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.2.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-common:jar:4.1.24.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.2.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-transport:jar:4.1.24.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.2.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-transport:jar:4.1.24.Final/io.netty:netty-buffer:jar:4.1.24.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.2.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-transport:jar:4.1.24.Final/io.netty:netty-resolver:jar:4.1.24.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.2.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-handler:jar:4.1.24.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.0.2.RELEASE/io.lettuce:lettuce-core:jar:5.0.4.RELEASE/io.netty:netty-handler:jar:4.1.24.Final/io.netty:netty-codec:jar:4.1.24.Final</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.6.1</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.6.1/org.springframework:spring-context:jar:5.0.6.RELEASE</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.6.1/org.javassist:javassist:jar:3.20.0-GA</node>
+            <node x="" y="">com.alibaba:dubbo:jar:2.6.1/org.jboss.netty:netty:jar:3.2.5.Final</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:pom:3.4.6</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:pom:3.4.6/org.slf4j:slf4j-log4j12:jar:1.7.25</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:pom:3.4.6/org.slf4j:slf4j-log4j12:jar:1.7.25/log4j:log4j:jar:1.2.17</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:pom:3.4.6/log4j:log4j:jar:1.2.16</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:pom:3.4.6/jline:jline:jar:0.9.94</node>
+            <node x="" y="">org.apache.zookeeper:zookeeper:pom:3.4.6/io.netty:netty:jar:3.7.0.Final</node>
+            <node x="" y="">com.101tec:zkclient:jar:0.10</node>
+            <node x="" y="">com.101tec:zkclient:jar:0.10/org.apache.zookeeper:zookeeper:jar:3.4.8</node>
+            <node x="" y="">org.apache.kafka:kafka_2.12:jar:1.0.1</node>
+            <node x="" y="">org.apache.kafka:kafka_2.12:jar:1.0.1/com.fasterxml.jackson.core:jackson-databind:jar:2.9.5</node>
+            <node x="" y="">org.apache.kafka:kafka_2.12:jar:1.0.1/com.fasterxml.jackson.core:jackson-databind:jar:2.9.5/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">org.apache.kafka:kafka_2.12:jar:1.0.1/com.fasterxml.jackson.core:jackson-databind:jar:2.9.5/com.fasterxml.jackson.core:jackson-core:jar:2.9.5</node>
+            <node x="" y="">org.apache.kafka:kafka_2.12:jar:1.0.1/net.sf.jopt-simple:jopt-simple:jar:5.0.4</node>
+            <node x="" y="">org.apache.kafka:kafka_2.12:jar:1.0.1/com.yammer.metrics:metrics-core:jar:2.2.0</node>
+            <node x="" y="">org.apache.kafka:kafka_2.12:jar:1.0.1/org.scala-lang:scala-library:jar:2.12.4</node>
+            <node x="" y="">org.apache.kafka:kafka_2.12:jar:1.0.1/org.apache.zookeeper:zookeeper:jar:3.4.10</node>
+            <node x="" y="">org.apache.kafka:kafka-clients:jar:1.0.1</node>
+            <node x="" y="">org.apache.kafka:kafka-clients:jar:1.0.1/org.lz4:lz4-java:jar:1.4</node>
+            <node x="" y="">org.apache.kafka:kafka-clients:jar:1.0.1/org.xerial.snappy:snappy-java:jar:1.1.4</node>
+            <node x="" y="">org.springframework.kafka:spring-kafka:jar:2.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.kafka:spring-kafka:jar:2.1.6.RELEASE/org.springframework:spring-messaging:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.springframework.kafka:spring-kafka:jar:2.1.6.RELEASE/org.springframework:spring-tx:jar:5.0.6.RELEASE</node>
+            <node x="" y="">org.springframework.kafka:spring-kafka:jar:2.1.6.RELEASE/org.springframework.retry:spring-retry:jar:1.2.2.RELEASE</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="1748.3026514962296" y="1305.5" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Repositories/Maven/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar!/com/google/gson/Gson.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="79" column="11" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Repositories/Maven/com/google/code/gson/gson/2.8.5/gson-2.8.5.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-kf-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="129" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/java/com/ms/service/service/GoodsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="133" column="21" selection-start-line="133" selection-start-column="21" selection-end-line="133" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/java/com/ms/service/config/KafkaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="926">
+          <caret line="64" column="85" selection-start-line="64" selection-start-column="71" selection-end-line="64" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#894#911#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/test/java/com/ms/service/service/TestProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="46" column="31" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Repositories/Maven/org/apache/kafka/kafka-clients/1.0.1/kafka-clients-1.0.1.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/OrderKfConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/developkits/jdk1.8.0_171/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="263" column="14" selection-start-line="263" selection-start-column="14" selection-end-line="263" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/kafka/SpringBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Repositories/Maven/org/springframework/spring-beans/5.0.6.RELEASE/spring-beans-5.0.6.RELEASE.jar!/org/springframework/beans/factory/support/ConstructorResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="458" selection-start-line="458" selection-end-line="458" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Repositories/Maven/org/springframework/spring-beans/5.0.6.RELEASE/spring-beans-5.0.6.RELEASE.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="104" column="17" lean-forward="true" selection-start-line="104" selection-start-column="17" selection-end-line="104" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/config/KafkaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2419#2420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/developkits/jdk1.8.0_171/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Repositories/Maven/org/springframework/spring-context/5.0.6.RELEASE/spring-context-5.0.6.RELEASE.jar!/org/springframework/context/annotation/ConfigurationClassEnhancer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Repositories/Maven/org/springframework/spring-core/5.0.6.RELEASE/spring-core-5.0.6.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/java/com/ms/service/service/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/test/java/com/ms/service/service/TestConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/resources/kafka.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/kafka/KafkaOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-kf-consumer/src/main/java/com/ms/consumer/kafka/KafkaOrderTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="45" column="23" lean-forward="true" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>order-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
