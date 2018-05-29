@@ -35,6 +35,9 @@ public class OrderServiceImpl implements OrderService {
     @Autowired
     private KafkaProducer kafkaProducer;
 
+    @Autowired
+    private Gson gson;
+
     @Value("${kafka.order.topic}")
     private String orderTopic;
 
@@ -80,8 +83,8 @@ public class OrderServiceImpl implements OrderService {
                 Order order = new Order();
                 order.setGoodId(goodsId);
                 order.setGoodsName(goodsDTO.getName());
-                //利用kafka创建订单
-                kafkaProducer.send(new ProducerRecord(orderTopic,new Gson().toJson(order)));
+                //利用kafka创建订单---传json字符串
+                kafkaProducer.send(new ProducerRecord(orderTopic,gson.toJson(order)));
             }
             //解锁
             redisLock.unlock(Const.Goods.GOODS_KEY+goodsId,String.valueOf(expireTime));

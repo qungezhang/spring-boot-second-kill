@@ -1,8 +1,10 @@
 package com.ms.service.config;
 
+import com.google.gson.Gson;
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -64,6 +66,11 @@ public class KafkaConfig {
         }*/
         KafkaProducer kafkaProducer = new KafkaProducer<String,Object>(producerConfig());
         return kafkaProducer;
+    }
+
+    @Bean
+    public Gson gson(){
+        return new Gson();
     }
 
 }
